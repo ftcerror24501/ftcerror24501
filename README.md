@@ -1,4 +1,5 @@
-<h1>⚠️ ERROR TEAM</h1>
+<h1>ERROR TEAM</h1>
+https://avatars.githubusercontent.com/u/240703250?v=4
 <p><strong>FTC Robotics & AI Team</strong></p>
 
 <p>
