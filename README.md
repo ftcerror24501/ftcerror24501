@@ -1,5 +1,7 @@
 <h1>ERROR TEAM</h1>
-https://avatars.githubusercontent.com/u/240703250?v=4
+
+![ERROR TEAM Logo]([https://linkin-buraya.png](https://avatars.githubusercontent.com/u/240703250?v=4))
+
 <p><strong>FTC Robotics & AI Team</strong></p>
 
 <p>
